@@ -1,20 +1,18 @@
-    body {
-    background-color: pink;
+body {
+    background-color: skyblue;
     }
     
     h1{
-    color: orange;
-    background-color: blue;
+    color: black;
+    background-color: cyan;
     }
 
     p{
-    color: slateblue;
+    color: blue;
     }
 
     .container {
         border-width: 5px;
-        border-style: solid;
-        border-color: crimson;
         margin: 40px;
         padding: 50px;
     }
