@@ -25,4 +25,6 @@ let piggyBankAmount = 0.0;
 let button = document.getElementById("coinEnter");
 let input = document.getElementById("coinInput");
 
-button.addEventListener("click, ");
+button.addEventListener("click", function f() {
+    const cointType = 
+});
