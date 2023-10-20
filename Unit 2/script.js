@@ -31,13 +31,13 @@ button.addEventListener("click", function f() {
     if (coinType === "p") {
         piggyBankAmount +- 0.01;
     }
-    else if (cointType === "n") {
+    else if (coinType === "n") {
         piggyBankAmount +- 0.05;
     }
-    else if (cointType === "d") {
+    else if (coinType === "d") {
         piggyBankAmount +- 0.10;
     }
-    else if (cointType === "q") {
+    else if (coinType === "q") {
         piggyBankAmount +- 0.25;
     }
 
