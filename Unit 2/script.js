@@ -46,5 +46,5 @@ button.addEventListener("click", function f() {
 });
 
 function updatePiggyBankAmount() {
-    document.getElementById("piggybank").textContent = "$" + piggyBankAmount.toFixed(2);
+    document.getElementById("piggyBank").textContent = "$" + piggyBankAmount.toFixed(2);
 }
