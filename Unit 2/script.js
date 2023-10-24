@@ -29,16 +29,16 @@ button.addEventListener("click", function f() {
     const coinType = input.value.toLowerCase();
 
     if (coinType === "p") {
-        piggyBankAmount +- 0.01;
+        piggyBankAmount += 0.01;
     }
     else if (coinType === "n") {
-        piggyBankAmount +- 0.05;
+        piggyBankAmount += 0.05;
     }
     else if (coinType === "d") {
-        piggyBankAmount +- 0.10;
+        piggyBankAmount += 0.10;
     }
     else if (coinType === "q") {
-        piggyBankAmount +- 0.25;
+        piggyBankAmount += 0.25;
     }
 
     input.value = "";
